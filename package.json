@@ -20,7 +20,7 @@
     },
     "homepage": "https://github.com/dongryphon/phylo#readme",
     "dependencies": {
-        "json5": "^0.5.1",
+        "json5": "^1.0.2",
         "mkdirp": "^0.5.1",
         "rimraf": "^2.6.2",
         "tmp": "0.0.33",
